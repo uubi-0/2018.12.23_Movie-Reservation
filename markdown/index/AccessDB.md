@@ -11,8 +11,8 @@ ODBC 원본 데이터 설정하기
 - 추가버튼을 누릅니다.
 <img src="../img/AccessDB2.png" width=500>
 - Microsoft Access Driver를 클릭하고 마침을 누릅니다.
-<img src="../img/AccessDB3.png?style=float" width=500>
-<img src="../img/AccessDB4.png?style=float" width=500>
+<img src="../img/AccessDB3.png?style=flat" width=500>
+<img src="../img/AccessDB4.png?style=flat" width=500>
 - 데이터 원본 이름을 적고 선택을 눌러줍니다. 주의!! 오른쪽 사진에서 Access 파일 이름과 데이터 원본 이름이 다르면 '데이터 원본 이름이 없고 기본 드라이버를 지정하지 않았습니다.'라는 오류가 나옵니다. 꼭!! 쓰고자하는 Access 파일 이름을 같게 설정할것!!!
 <img src="../img/AccessDB5.png" width=500>
 - Movie_Reservation 폴더를 클릭하면 왼쪽에 mdb 파일이 보입니다. 확인 버튼을 눌러 적용 해줍니다.
@@ -20,5 +20,6 @@ ODBC 원본 데이터 설정하기
 - 확인 버튼을 눌러줍니다.
 <img src="../img/AccessDB7.png" width=500>
 - ODBC 원본 데이터가 정상적으로 만들어졌으므로 확인 버튼을 누릅니다.
+
 - ODBC로 MS Access mdb 파일을 MFC와 연동할 준비가 되었습니다.
 
