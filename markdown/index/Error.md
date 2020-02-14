@@ -1,12 +1,9 @@
-C++ Movie_Reservation Program
+에러 문제와 해결법
 ===
+오류1 : 데이터 원본 이름이 없고 기본 드라이버를 지정하지 않았습니다.
+---
+<img src="../img/Error1_1.png" width=500>
 
-<a href="https://myengineering.tistory.com/"><img src="https://img.shields.io/badge/blog-myengineering-red.svg" /></a>
-<a href="#"><img src="https://img.shields.io/github/last-commit/manduMY/Movie_Reservation.svg?style=flat" /></a>
-<a href="#"><img src="https://img.shields.io/github/languages/top/manduMY/Movie_Reservation.svg?colorB=yellow&style=flat" /></a>
-<a href="#"><img src="https://img.shields.io/badge/license-MIT-green.svg" /></a>
+해결법
+</hr>
 
-영화 예매 프로젝트
-
-- 핵심 목표: 학교에서 했던 프로젝트를 완벽한 프로그램으로 만들자!!
-- Keyword: 
