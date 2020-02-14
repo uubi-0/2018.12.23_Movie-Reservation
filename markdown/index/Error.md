@@ -1,12 +1,14 @@
-C++ Movie_Reservation Program
+에러 문제와 해결법
 ===
+오류1 : 데이터 원본 이름이 없고 기본 드라이버를 지정하지 않았습니다.
+---
+<img src="../img/Error1_1.png" width=500>
 
-<a href="https://myengineering.tistory.com/"><img src="https://img.shields.io/badge/blog-myengineering-red.svg" /></a>
-<a href="#"><img src="https://img.shields.io/github/last-commit/manduMY/Movie_Reservation.svg?style=flat" /></a>
-<a href="#"><img src="https://img.shields.io/github/languages/top/manduMY/Movie_Reservation.svg?colorB=yellow&style=flat" /></a>
-<a href="#"><img src="https://img.shields.io/badge/license-MIT-green.svg" /></a>
+해결법
+***
+<p align="left">
+<img src="../img/Error1_2.png" alt="Error1_solution screenshot: one" width=400 /> <img src="../img/Error1_3.png" alt="Error1_solution screenshot: two" width=400 />
+</p>
 
-영화 예매 프로젝트
-
-- 핵심 목표: 학교에서 했던 프로젝트를 완벽한 프로그램으로 만들자!!
-- Keyword: 
+* 프로그램에서 지정한 ODBC로 연결할 때 DSN으로 데이터를 찾고 DBQ로 경로를 찾아 연결하기 때문에 컴퓨터에서 만들어 놓은 ODBC 원본 데이터와 코드상의 연결할 원본 데이터의 이름이 다르면 에러가 나옵니다.
+* ODBC 원본 데이터 이름과 코드상의 연동하고자하는 원본 데이터 이름이 같은지 확인 해봅니다.
