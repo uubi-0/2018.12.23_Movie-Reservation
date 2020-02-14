@@ -12,8 +12,8 @@ ODBC 원본 데이터 설정하기
 - 추가버튼을 누릅니다.
 <img src="../img/AccessDB2.png" width=500>
 - Microsoft Access Driver를 클릭하고 마침을 누릅니다.
-<p align="center">
-<img src="../img/AccessDB3.png" alt="ODBC screenshot: two" width=270 /> <img src="../img/AccessDB4.png" alt="ODBC screenshot: one" width=270 />
+<p align="left">
+<img src="../img/AccessDB3.png" alt="ODBC screenshot: two" width=500 /> <img src="../img/AccessDB4.png" alt="ODBC screenshot: one" width=500 />
 </p>
 - 데이터 원본 이름을 적고 선택을 눌러줍니다. 주의!! 오른쪽 사진에서 Access 파일 이름과 데이터 원본 이름이 다르면 '데이터 원본 이름이 없고 기본 드라이버를 지정하지 않았습니다.'라는 오류가 나옵니다. 꼭!! 쓰고자하는 Access 파일 이름을 같게 설정할것!!!
 <img src="../img/AccessDB5.png" width=500>
