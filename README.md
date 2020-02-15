@@ -104,7 +104,9 @@ ACCESS(DATABASE) 데이터 관리 방안
 - ChatServer 먼저 실행 시켜야 1:1 고객상담 기능이 작동됩니다.
 
   * * *
-[여러 오류사항 문제와 해결법](markdown/index/Error.md)
+  
+> [여러 오류사항 문제와 해결법](markdown/index/Error.md)
+
 
 ##### ※ 프로그램 실행 순서 ※ 
   
