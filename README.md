@@ -89,11 +89,9 @@ ACCESS(DATABASE) 데이터 관리 방안
 |:----------------------------------------:|:-----------------------------------------:|
 |<img src="markdown/img/DlgImportation.png" width=500 />|<img src="markdown/img/Tab.png" width=500 />|
 
-<p align="center">
-| Tab1 |
+| Tab1 align="center" |
 |:----------------------------------------:|
 |<img src="markdown/img/Tab1.png" width=405 />|
-</p>
 
 
 <br/>
