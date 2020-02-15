@@ -91,7 +91,7 @@ ACCESS(DATABASE) 데이터 관리 방안
 
 | Tab1 |
 |:----------------------------------------:|
-|<img src="markdown/img/Tab1.png" width=409 />|
+|<img src="markdown/img/Tab1.png" width=405 />|
 
 
 <br/>
