@@ -8,7 +8,6 @@ C++ Movie_Reservation Program
 
 영화 예매 프로젝트
 
-- 핵심 목표: 학교에서 했던 프로젝트를 완벽한 프로그램으로 만들자!!
 - Keyword: C++, MFC, Socket, Access, Document-View Structure, etc ...
 - 개발 기간: 2018.12.23 ~ 2019.01.07
 
