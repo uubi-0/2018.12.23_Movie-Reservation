@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T15:48:21.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CpL8IAg5AG5G8AsqEXJP" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T15:49:48.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="61D9BUZIAzfV_F_iEBF_" version="20.6.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="631" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
@@ -94,13 +94,13 @@
         <mxCell id="OvvIX8w5NkYmFeoSIvcE-24" value="1 : 1 상담" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="219" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OvvIX8w5NkYmFeoSIvcE-28" value="영화 예매" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OvvIX8w5NkYmFeoSIvcE-28" value="주의사항" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="260" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvvIX8w5NkYmFeoSIvcE-30" value="영화 등록" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="337" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OvvIX8w5NkYmFeoSIvcE-31" value="주의사항" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OvvIX8w5NkYmFeoSIvcE-31" value="회원 관리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="380" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvvIX8w5NkYmFeoSIvcE-32" value="고객문의" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
